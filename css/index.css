@@ -132,6 +132,7 @@ background-color: black;
 @media screen and (max-width: 1000px){
 body{
 background-position: center;
+background-attachment:fixed;
 }           
 #fo1{
 margin-top: 25%;
