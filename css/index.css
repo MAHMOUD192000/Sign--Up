@@ -146,13 +146,18 @@ height: 60px;
 #se3{
 height: 60px;
 }
+
+
+
 }
 @media screen and (max-width: 600px) { 
 body{
-background-position: auto;
+background-position: center;
+background-image: none;
+background-color: blue;
 }       
 #fo1{
-width: 100%;
+width: 90%;
 margin-top: 30%;
 margin-left: 0px;
 }
