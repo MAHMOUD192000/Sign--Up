@@ -140,21 +140,24 @@ background-attachment: fixed;
     margin-top: 25%;
 }
 #se1{
-height: 70px;
+height: 60px;
 font-size: 15px;
 }
 #se2{
-height: 70px;
+height: 60px;
 font-size: 15px;
 }
 #se3{
-height: 70px;
+height: 60px;
 font-size: 15px;
 }
 #bs1{
+
     width: 100px;
+    top: 2%;
 }
 #bh1{
     width: 100px;
+    top: 2%;
 }
 }
