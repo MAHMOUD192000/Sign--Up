@@ -37,7 +37,7 @@ function showform(){
    $(this).attr('placeholder','');
     
     
-    if($(this).val().length>10 || $(this).val().length<15){
+    if($(this).val().length>10 || $(this).val().length<20){
         
     document.getElementById('se1').style.display='none';
         username=1;
@@ -83,7 +83,7 @@ function showform(){
    $(this).attr('placeholder','User name');
     
     
-   if($(this).val().length<10 || $(this).val().length>15){
+   if($(this).val().length<10 || $(this).val().length>20){
         
     document.getElementById('se1').style.display='block';
      username=0;
